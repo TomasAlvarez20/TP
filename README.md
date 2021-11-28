@@ -22,8 +22,8 @@ Todas las funciones matemáticas del menú se deberán realizar en una bibliotec
 . Deberán contemplarse los casos de error (división por cero, etc).
 
 Integrantes:
-Joaquín De La Cruz -
+Tomas Alvarez -
 Noelia Mustaff -
-Tomas Alvarez-
+Joaquín De La Cruz -
 Nahuel Lorenzo
 
